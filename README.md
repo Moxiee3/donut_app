@@ -1,6 +1,7 @@
 # donut_app
 
-A new Flutter project.
+Challenge 30Day 30App in flutter
+Day 1/30
 
 ## Getting Started
 
